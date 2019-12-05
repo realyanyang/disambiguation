@@ -63,6 +63,7 @@ disambiguation/
 
 大家有兴趣可以下载当时训练好的模型
 
-| 名称               | 链接                                                         | MD5                              |
-| ------------------ | ------------------------------------------------------------ | -------------------------------- |
-| trained-models.zip | [百度网盘](https://pan.baidu.com/s/1Ne9Z3Q7eHFRcCT_FE09RiA)，[Google Drive](https://drive.google.com/open?id=1TAYUzBE9Lj7tLXGu3U5RhNHRrzYGlz8w) | 8b553624dfe6ca1d49dea0144f1e9aab |
+| 名称                      | 链接                                                         | MD5                              |
+| ------------------------- | ------------------------------------------------------------ | -------------------------------- |
+| trained-models.zip        | [百度网盘](https://pan.baidu.com/s/1Ne9Z3Q7eHFRcCT_FE09RiA)，[Google Drive](https://drive.google.com/open?id=1TAYUzBE9Lj7tLXGu3U5RhNHRrzYGlz8w) | 8b553624dfe6ca1d49dea0144f1e9aab |
+| tm.title.1.checkpoint.pth | [百度网盘](https://pan.baidu.com/s/197crXIRolO1mS4PKedmYIA)，[Google Drive](https://drive.google.com/open?id=1eyUrF6wdNmUAJj8_jxGbIWwg7jkJLhgF) | 8609612c0665eef1dd044c5c83ef8416 |
