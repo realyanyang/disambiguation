@@ -1,6 +1,6 @@
 # Name Disambiguation
 
-在 *OAG-WhoIsWho 赛道二*中获得验证集0.86299，测试集0.96405的成绩，分享本次比赛中的代码。
+在 *OAG-WhoIsWho 赛道二*中取得验证集0.86299，测试集0.96405的成绩，分享本次比赛中的代码。
 
 比赛[链接](https://www.biendata.com/competition/aminer2019_2/)
 
