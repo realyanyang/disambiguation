@@ -6,8 +6,8 @@
 
 ## 环境
 
-- Linux
-- python3
+- Ubuntu 1804
+- python3.6
 - 所使用到的python包及版本见requirements.txt
 
 ## 运行前目录结构
@@ -69,3 +69,5 @@ disambiguation/
 | tm.title.1.checkpoint.pth | [百度网盘](https://pan.baidu.com/s/197crXIRolO1mS4PKedmYIA)，[Google Drive](https://drive.google.com/open?id=1eyUrF6wdNmUAJj8_jxGbIWwg7jkJLhgF) | 8609612c0665eef1dd044c5c83ef8416 |
 
 **NEW:**  新增visualization.ipynb，一些可视化内容
+
+**NEW:**  新增ppt

@@ -10,6 +10,7 @@ split-data/
 trained-models/
 tmp
 *.zip
+useless*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
